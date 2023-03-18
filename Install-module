@@ -1,0 +1,4 @@
+# VirusTotal Integrations for PowerShell
+ 
+ Install-Module -Name Set-VirusScan 
+
