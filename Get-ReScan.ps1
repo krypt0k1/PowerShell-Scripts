@@ -1,4 +1,6 @@
-﻿# Get-VirusRescan.psd1
+﻿
+ # Credit https://github.com/simeononsecurity/VirusTotal-PS
+ # Get-VirusRescan.psd1
 @{
     RootModule = 'Set-VirusRescan.psm1'
     Author = 'simeononsecurity.ch'
